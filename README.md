@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kameltouati" alt="kameltouati" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS**, **node Express JS**, **Django restFrameWork & APIS**
 
 - 📫 How to reach me **k_touati@estin.dz**
 
