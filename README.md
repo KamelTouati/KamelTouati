@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Touati Kamel</h1>
-<h3 align="center">A passionate Front-End developer from ALGERIA</h3>
+<h3 align="center">A passionate Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kameltouati&label=Profile%20views&color=0e75b6&style=flat" alt="kameltouati" /> </p>
 
@@ -11,11 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamel touati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamel touati" height="30" width="40" /></a>
-<a href="https://fb.com/ka mel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ka mel" height="30" width="40" /></a>
-<a href="https://instagram.com/ka mel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka mel" height="30" width="40" /></a>
-<a href="https://dribbble.com/kamel touati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kamel touati" height="30" width="40" /></a>
-<a href="https://www.behance.net/kamel touati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kamel touati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamel-touati-bb436b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamel touati" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kameltouati19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ka mel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kamel__touati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka mel" height="30" width="40" /></a>
+<a href="https://dribbble.com/Kamel_touati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kamel touati" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
