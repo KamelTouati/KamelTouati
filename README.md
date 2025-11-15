@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a final-year AI student at the Higher School of Computer Science and Digital Technologies-BEJAIA.</p>
+<p align="left">AI & Data Science Engineer and a graduate of the HIGHER SCHOOL OF COMPUTER SCIENCE AND DIGITAL TECHNOLOGIES - BEJAIA</p>
 
 ###
 
